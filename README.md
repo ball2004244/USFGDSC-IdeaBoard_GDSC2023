@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is an idea board for Google Developer Students Club, build with React.js and Firebase.
 
 ## Available Scripts
 
